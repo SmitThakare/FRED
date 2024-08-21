@@ -1,4 +1,4 @@
-If you don't plan to include a `requirements.txt` file, you can adjust the README accordingly. Here's the updated version:
+
 
 # Economic Indicators Analysis Using FRED API
 
